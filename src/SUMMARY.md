@@ -1,0 +1,25 @@
+# Summary
+- [Introduction](introduction.md)
+# For Users
+
+# For Developers
+- [Software requirements](dev/req/requirements.md)
+  - [Functional requirements]()
+    - [Import and Export]()
+      - [MS data types](dev/req/datatypes.md)
+      - [Data formats](dev/req/dataformats.md)
+      - [Export](dev/req/export.md)
+    - [Metadata](dev/req/metadata.md)
+    - [Data validation](dev/req/validation.md)
+    - [Data viewers](dev/req/dataviewers.md)
+    - [Authentication and Authorization](dev/req/aai.md)
+    - [Commenting]()
+    - [Data analysis](dev/req/analysis.md)
+    - [Searching](dev/req/search.md)
+    - [Integration](dev/req/integration.md)
+    - [API Access](dev/req/api.md)
+  - [Technical Requirements]()
+    - [Codbase](dev/req/tec/codebase.md.md)
+    - [Database and data model](dev/req/tec/data.md)
+    - [Achitecture](dev/req/tec/architecture.md)
+    - [Plug-ins](dev/req/tec/plugin.md)
