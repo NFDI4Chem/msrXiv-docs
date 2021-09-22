@@ -21,12 +21,13 @@ Changelog:
    - full name
 3. The following fields are optional
    - institution
-4. The user is able to reset the password by email
+4. email address is verified by sending a verification link
+5. The user is able to reset the password by email
    - a link for new password will be sent
 
 
 #### Validation
-1. The email address is valid and unique
+1. The email address is a valid email address (RFC5322,RFC6530)and unique
 2. The username is unique
 3. The password has at least 8 chars
 
@@ -35,8 +36,8 @@ Changelog:
 [Documentation](https://docs.google.com/document/d/1ihb0hH2YJqSCPZS0syVpvAOeQP1HTxdf_XMsZZLe_W0/edit)
 - The application is a SAML 2.0 Service Provider for Elixir
 
-or
- 
+OR
+
 - The application is an OpenID Connect Relying Party
 
 ### Orcid
