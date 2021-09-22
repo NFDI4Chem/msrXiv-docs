@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "msXiv Documentation"
+
+[preprocessor.links]
+
+[preprocessor.index]
